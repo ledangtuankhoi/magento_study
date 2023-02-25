@@ -55,7 +55,7 @@ atlassian*
 /pub/media/theme/*
 /pub/media/theme_customization/*
 !/pub/media/theme_customization/.htaccess
-/pub/media/wysiwyg/*
+!/pub/media/wysiwyg/*
 !/pub/media/wysiwyg/.htaccess
 /pub/media/tmp/*
 !/pub/media/tmp/.htaccess
@@ -67,7 +67,7 @@ atlassian*
 
 /var/*
 !/var/.htaccess
-/vendor/*
+!/vendor/*
 !/vendor/.htaccess
 /generated/*
 !/generated/.htaccess
