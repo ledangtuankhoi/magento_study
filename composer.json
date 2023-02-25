@@ -1,0 +1,5 @@
+{
+    "require": {
+        "facebook/facebook-for-magento2": "^1.4"
+    }
+}
